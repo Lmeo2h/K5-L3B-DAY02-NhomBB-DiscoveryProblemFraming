@@ -1,8 +1,5 @@
 # Báo cáo cá nhân — 2A202603813_DaoVanHiep
 
-> Đổi tên file theo quy tắc `MSSV_HoTen.md`. Tiêu đề: `Báo cáo cá nhân — 2A202603813_DaoVanHiep`.  
-> Báo cáo hoàn chỉnh các phần cá nhân: CP1 (Scan 10+ problems đạt Bonus B1), CP2 (Top 3 Problem Cards), CP3 (Nhật ký phản biện), CP7 (Reflection & Hiểu bài).
-
 ---
 
 ## 1. Thông tin học viên
