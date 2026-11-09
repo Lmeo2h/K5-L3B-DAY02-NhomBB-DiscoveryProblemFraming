@@ -14,9 +14,9 @@
 
 ## 2. Scan problem (CP1)
 
-Dưới đây là 10 bài toán được quét qua 4 lăng kính: **Lặp lại**, **Tốn thời gian**, **Cần đọc, tổng hợp nhiều thông tin**, **Pain từ người khác**. Mỗi dòng đều có dấu hiệu thật đo lường được (Bonus B1).
+Dưới đây là 10 bài toán được quét qua 4 lăng kính: **Lặp lại**, **Tốn thời gian**, **Cần đọc, tổng hợp nhiều thông tin**, **Pain từ người khác**.
 
-| # | Lăng kính | Job Story: Khi… tôi muốn… để… | Ai chịu ảnh hưởng? | Dấu hiệu thật (thời gian, tần suất, số người, bằng chứng) |
+| # | Lăng kính | Job Story| Ai chịu ảnh hưởng? | Dấu hiệu thật (thời gian, tần suất, số người, bằng chứng) |
 |---:|---|---|---|---|
 | 1 | Tốn thời gian | Khi xe taxi điện báo pin còn dưới 10% giữa giờ cao điểm, tôi muốn nhanh chóng tra cứu vị trí trạm sạc còn trụ trống hoặc xe sạc lưu động gần nhất, để gửi chỉ dẫn cứu hộ cho tài xế trước khi xe chết máy | Điều phối viên GSM, Tài xế Xanh SM | Xử lý mất 15 phút/ca; trung bình 1 ca trực tiếp nhận 15–20 ca pin đỏ; 3 lần tuần trước xe chết máy giữa đường phải gọi cứu hộ kéo |
 | 2 | Lặp lại | Khi kết thúc kỳ đối soát cuối tháng, tôi muốn tự động đối chiếu các biên lai sạc điện từ trạm nhượng quyền bên thứ ba với dữ liệu cuốc xe của tài xế, để phát hiện các khoản lệch thanh toán | Kế toán đội xe, Tài xế | Mỗi tháng mất 4–5 tiếng đối soát thủ công trên 3 file Excel; kỳ trước phát hiện lệch 12 triệu đồng do ghi nhận trễ |
